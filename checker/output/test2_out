@@ -1,0 +1,70 @@
+EMPTY DB
+Nod1
+Bere Cod:401 TipAmbalaj:Sticla Pret:3.4 Stoc:2309
+Suc CodSuc:202 PretUnitar:2.8 Stoc:540
+Suc CodSuc:201 PretUnitar:2.7 Stoc:1000
+Apa CodProdus:102 Tip:Minerala Pret:2.7 Stoc:2000
+Apa CodProdus:101 Tip:Plata Pret:2.1 Stoc:1000
+Nod2
+Bere Cod:401 TipAmbalaj:Sticla Pret:3.4 Stoc:2309
+Suc CodSuc:202 PretUnitar:2.8 Stoc:540
+Suc CodSuc:201 PretUnitar:2.7 Stoc:1000
+Apa CodProdus:102 Tip:Minerala Pret:2.7 Stoc:2000
+Apa CodProdus:101 Tip:Plata Pret:2.1 Stoc:1000
+Nod3
+Bere Cod:401 TipAmbalaj:Sticla Pret:3.4 Stoc:2309
+Suc CodSuc:202 PretUnitar:2.8 Stoc:540
+Suc CodSuc:201 PretUnitar:2.7 Stoc:1000
+Apa CodProdus:102 Tip:Minerala Pret:2.7 Stoc:2000
+Apa CodProdus:101 Tip:Plata Pret:2.1 Stoc:1000
+Nod4
+Apa CodProdus:102 Tip:Minerala Pret:2.7 Stoc:2000
+Apa CodProdus:101 Tip:Plata Pret:2.1 Stoc:1000
+Nod1
+Vin CodVin:305 Culoare:Alb Tip:Dulce Pret:50.1 Stoc:78
+Vin CodVin:304 Culoare:Rosu Tip:Demisec Pret:35.4 Stoc:45
+Suc CodSuc:203 PretUnitar:3.7 Stoc:342
+Vin CodVin:303 Culoare:Roze Tip:Demisec Pret:22.1 Stoc:23
+Suc CodSuc:204 PretUnitar:9.7 Stoc:1298
+Vin CodVin:302 Culoare:Rosu Tip:Sec Pret:30.5 Stoc:45
+Suc CodSuc:205 PretUnitar:10.7 Stoc:987
+Bere Cod:402 TipAmbalaj:Doza Pret:2.2 Stoc:1354
+Vin CodVin:301 Culoare:Alb Tip:Sec Pret:20.7 Stoc:100
+Bere Cod:401 TipAmbalaj:Sticla Pret:3.4 Stoc:2309
+Suc CodSuc:202 PretUnitar:2.8 Stoc:540
+Suc CodSuc:201 PretUnitar:2.7 Stoc:1000
+Apa CodProdus:102 Tip:Minerala Pret:2.7 Stoc:2000
+Apa CodProdus:101 Tip:Plata Pret:2.1 Stoc:1000
+Nod2
+Vin CodVin:305 Culoare:Alb Tip:Dulce Pret:50.1 Stoc:78
+Vin CodVin:304 Culoare:Rosu Tip:Demisec Pret:35.4 Stoc:45
+Suc CodSuc:203 PretUnitar:3.7 Stoc:342
+Vin CodVin:303 Culoare:Roze Tip:Demisec Pret:22.1 Stoc:23
+Suc CodSuc:204 PretUnitar:9.7 Stoc:1298
+Vin CodVin:302 Culoare:Rosu Tip:Sec Pret:30.5 Stoc:45
+Suc CodSuc:205 PretUnitar:10.7 Stoc:987
+Bere Cod:402 TipAmbalaj:Doza Pret:2.2 Stoc:1354
+Vin CodVin:301 Culoare:Alb Tip:Sec Pret:20.7 Stoc:100
+Bere Cod:401 TipAmbalaj:Sticla Pret:3.4 Stoc:2309
+Suc CodSuc:202 PretUnitar:2.8 Stoc:540
+Suc CodSuc:201 PretUnitar:2.7 Stoc:1000
+Apa CodProdus:102 Tip:Minerala Pret:2.7 Stoc:2000
+Apa CodProdus:101 Tip:Plata Pret:2.1 Stoc:1000
+Nod3
+Vin CodVin:305 Culoare:Alb Tip:Dulce Pret:50.1 Stoc:78
+Vin CodVin:304 Culoare:Rosu Tip:Demisec Pret:35.4 Stoc:45
+Suc CodSuc:203 PretUnitar:3.7 Stoc:342
+Vin CodVin:303 Culoare:Roze Tip:Demisec Pret:22.1 Stoc:23
+Suc CodSuc:204 PretUnitar:9.7 Stoc:1298
+Vin CodVin:302 Culoare:Rosu Tip:Sec Pret:30.5 Stoc:45
+Suc CodSuc:205 PretUnitar:10.7 Stoc:987
+Bere Cod:402 TipAmbalaj:Doza Pret:2.2 Stoc:1354
+Vin CodVin:301 Culoare:Alb Tip:Sec Pret:20.7 Stoc:100
+Bere Cod:401 TipAmbalaj:Sticla Pret:3.4 Stoc:2309
+Suc CodSuc:202 PretUnitar:2.8 Stoc:540
+Suc CodSuc:201 PretUnitar:2.7 Stoc:1000
+Apa CodProdus:102 Tip:Minerala Pret:2.7 Stoc:2000
+Apa CodProdus:101 Tip:Plata Pret:2.1 Stoc:1000
+Nod4
+Apa CodProdus:102 Tip:Minerala Pret:2.7 Stoc:2000
+Apa CodProdus:101 Tip:Plata Pret:2.1 Stoc:1000
